@@ -31,5 +31,14 @@
 
 
 ---
-- :telescope: Open to Software Engineering Fresher Roles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lakshay-piplani-827544151/)
+🧑🏻‍💻 Open to Fresher Software Engineering roles.
+
+✌🏻 Apart from Coding I love cricket
+
+💬 Ask me about Core Computer Science Subjects
+
+💬 Currently pursuing MTech in Computer Science from NSIT, Delhi.
+
+📫 Reach out to me - lakshaypiplani77@gmail.com
+
+🎯 Motto : To be the best version of myself.
