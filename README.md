@@ -37,8 +37,7 @@
 
 💬 Ask me about Core Computer Science Subjects
 
-![image](https://user-images.githubusercontent.com/100138503/177033726-8c3accf4-1992-445e-8265-999d6f06eaaf.png)
- Currently pursuing MTech in Computer Science from NSIT, Delhi.
+🧑 Currently pursuing MTech in Computer Science from NSIT, Delhi.
 
 📫 Reach out to me - lakshaypiplani77@gmail.com
 
