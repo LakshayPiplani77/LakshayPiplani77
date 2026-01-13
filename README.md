@@ -73,19 +73,6 @@ Embedded Software Engineer
   - Familiar with **upstream contribution workflows** 
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lakshaypiplani77&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaypiplani77&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
 ## 🤝 Let’s Connect
 
 If you’re working on:
