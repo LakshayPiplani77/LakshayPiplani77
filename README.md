@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Lakshay Piplani
 
-Embedded Software Engineer
+Embedded Software Engineer @NXP Semiconductors
 
 <a href="https://www.linkedin.com/in/lakshay-piplani-827544151/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -24,7 +24,7 @@ Embedded Software Engineer
 
 ## 🧑‍💻 About Me
 
-- Embedded Software Engineer with hands-on experience in 
+- Embedded Software Engineer with 3+ Year of work experience.
 
 📫 **Contact:** `lakshaypiplani77@gmail.com`  
 
