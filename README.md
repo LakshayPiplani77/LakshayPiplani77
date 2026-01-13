@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Lakshay Piplani
 
-Embedded Software Engineer | Linux BSP | Secure Boot | ARM Platforms
+Embedded Software Engineer
 
 <a href="https://www.linkedin.com/in/lakshay-piplani-827544151/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -24,30 +24,29 @@ Embedded Software Engineer | Linux BSP | Secure Boot | ARM Platforms
 
 ## 🧑‍💻 About Me
 
-- Embedded Software Engineer with hands-on experience in **Linux BSP bring-up and secure boot enablement** on ARM-based SoCs  
-- Worked on **NXP S32G2 platform**, contributing across **ARM Trusted Firmware (ATF), U-Boot, Linux kernel, and Yocto**
-- Strong foundation in **core computer science subjects** and **low-level system programming*
+- Embedded Software Engineer with hands-on experience in 
 
 📫 **Contact:** `lakshaypiplani77@gmail.com`  
-🎯 **Motto:** Be the best version of myself  
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Embedded & Systems
-- ARM Architecture, Boot Flow
+- ARM Architecture, Linux Boot Flow
 - Linux BSP Bring-up
 - Secure Boot / Verified Boot
 - Device Trees
-- Cross-compilation
+- Linux Device Drivers
+- Bare Metal Device Drivers for MCUs.
 
 ### Software Stack
 - **ARM Trusted Firmware (ATF)**
 - **U-Boot**
 - **Linux Kernel**
-- **Yocto / BitBake**
-
+- **Yocto**
+- **Github**
+  
 ### Programming Languages
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
@@ -62,16 +61,6 @@ Embedded Software Engineer | Linux BSP | Secure Boot | ARM Platforms
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </div>
 
----
-
-## 🔐 Secure Boot Experience
-
-- Implemented **verified boot chain** on an ARM-based platform
-- Integrated **ATF → U-Boot → Linux kernel** secure boot flow
-- Worked on image signing, authentication, and boot-stage validation
-- Experience debugging boot failures at early boot stages
-
----
 
 ## 🚀 Key Work Highlights
 
@@ -81,10 +70,7 @@ Embedded Software Engineer | Linux BSP | Secure Boot | ARM Platforms
   - U-Boot
   - Linux Kernel
   - Yocto Project
-- Collaboration with tech lead and senior engineers in a cross-functional setup
-- Familiar with **upstream contribution workflows** (GitHub / Gerrit)
-
-> 🔗 *Selected upstream contributions available on request / linked in repositories*
+  - Familiar with **upstream contribution workflows** (GitHub / Gerrit)
 
 ---
 
