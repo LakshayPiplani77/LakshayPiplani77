@@ -26,8 +26,7 @@ Embedded Software Engineer | Linux BSP | Secure Boot | ARM Platforms
 
 - Embedded Software Engineer with hands-on experience in **Linux BSP bring-up and secure boot enablement** on ARM-based SoCs  
 - Worked on **NXP S32G2 platform**, contributing across **ARM Trusted Firmware (ATF), U-Boot, Linux kernel, and Yocto**
-- Strong foundation in **core computer science subjects** and **low-level system programming**
-- Currently pursuing **M.Tech in Computer Science** from **NSIT, Delhi**
+- Strong foundation in **core computer science subjects** and **low-level system programming*
 
 📫 **Contact:** `lakshaypiplani77@gmail.com`  
 🎯 **Motto:** Be the best version of myself  
