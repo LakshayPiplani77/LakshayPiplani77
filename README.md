@@ -70,7 +70,7 @@ Embedded Software Engineer
   - U-Boot
   - Linux Kernel
   - Yocto Project
-  - Familiar with **upstream contribution workflows** (GitHub / Gerrit)
+  - Familiar with **upstream contribution workflows** 
 
 ---
 
