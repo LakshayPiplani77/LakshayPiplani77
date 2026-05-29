@@ -45,35 +45,72 @@ Currently focused on **Linux I3C subsystem development** and upstream support fo
 
 ## 🐧 Linux Kernel Contributions
 
-| Subsystem | Contributions |
-|---|---|
-| **HWMON** | P3T1750 / P3T1755 temperature sensor drivers |
-| **IIO** | P3T1750 / P3T1755 sensor support |
-| **RTC** | PCF85263, PCF85363, PCF85053 drivers |
-| **Counter** | PCF85053 counter support |
-| **I3C** | NXP P3H2x4x I3C Hub upstream patchset |
+### 🚀 Featured Upstream Development
 
----
+#### NXP P3H2x4x I3C Hub Driver
 
-## 🔧 Current Upstream Work
+Currently developing upstream Linux support for the **NXP P3H2x4x I3C Hub family**.
 
-### NXP P3H2x4x I3C Hub Driver
+Highlights:
 
-Working on upstream Linux support for the **NXP P3H2x4x I3C Hub family**.
-
-Key areas:
-
-- Generic I3C Hub Framework
+- Generic Linux I3C Hub Framework
+- Virtual I3C Controller Architecture
 - MFD Driver
 - Regulator Driver
 - Device Tree Bindings
 - SMBus Target Support
-- I3C Virtual Controller Support
-- Cascaded Hub Handling
+- Cascaded Hub Support
 - Mixed I3C / I2C Target Port Support
 
-📌 **Patchset:**  
-[Add support for NXP P3H2x4x I3C hub driver](https://lore.kernel.org/linux-i3c/20260525064209.2263045-1-lakshay.piplani@nxp.com/T/#t)
+🔗 **Latest Patch Series:**  
+https://lore.kernel.org/linux-i3c/20260525064209.2263045-1-lakshay.piplani@nxp.com/T/#t
+
+---
+
+### ✅ Mainlined Contributions
+
+#### HWMON Subsystem
+
+**P3T1750 Temperature Sensor Driver**
+
+🔗 **Mainline Linux:**  
+https://github.com/torvalds/linux/commit/83b3354a4ad9a784a3335a2c303c693f521d1e47
+
+---
+
+### 📨 Accepted Upstream Contributions
+
+#### RTC Subsystem
+
+**PCF85363 Oscillator Offset Calibration Support**
+
+🔗 **Accepted Patchset:**  
+https://patchwork.ozlabs.org/project/rtc-linux/patch/20251121121137.3043764-4-lakshay.piplani@nxp.com/
+
+#### RTC Subsystem
+
+**PCF85053A RTC Support**
+
+🔗 **Accepted Patchset:**  
+https://patchwork.ozlabs.org/project/rtc-linux/patch/20251127120456.1849177-2-lakshay.piplani@nxp.com/#3643179
+
+---
+
+### 🔍 Additional Upstream Contributions
+
+#### Counter Subsystem
+
+**PCF85263 Counter Driver**
+
+🔗 **Upstream Submission:**  
+https://patchew.org/linux/20251008100713.1198461-1-lakshay.piplani@nxp.com/20251008100713.1198461-2-lakshay.piplani@nxp.com/
+
+#### Industrial I/O (IIO) Subsystem
+
+**P3T1755 IIO Driver**
+
+🔗 **Upstream Submission:**  
+https://patchwork.ozlabs.org/project/devicetree-bindings/patch/20250915071415.1956219-1-lakshay.piplani@nxp.com/#3580433
 
 ---
 
@@ -98,7 +135,7 @@ Key areas:
 **Jul 2023 - Present | Noida, India**
 
 - Embedded Linux BSP enablement for ARM-based platforms.
-- Linux kernel driver development across RTC, HWMON, IIO, Counter, and I3C subsystems.
+- Linux kernel driver development across HWMON, RTC, I3C, Counter, and IIO subsystems.
 - Secure boot implementation across ATF → U-Boot → Linux.
 - Python host utilities for flashing, debugging, wireless configuration, and validation.
 - CMSIS-based drivers and demo applications for industrial sensors using I2C, SPI, and I3C.
@@ -116,6 +153,9 @@ Key areas:
 ## 🏆 Highlights
 
 - Linux kernel upstream contributor
+- Mainlined HWMON contribution
+- Accepted RTC subsystem contributions
+- Active I3C subsystem upstream development
 - 300+ LeetCode problems solved
 - GATE CS qualified with 95 percentile
 - Embedded Linux, BSP, and secure boot experience
