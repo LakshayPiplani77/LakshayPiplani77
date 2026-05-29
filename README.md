@@ -84,7 +84,7 @@ https://github.com/torvalds/linux/commit/83b3354a4ad9a784a3335a2c303c693f521d1e4
 
 ---
 
-### 📨 Reviewed & Accepted Upstream Contributions
+### 📨 Reviewed & Ongoing Upstream Contributions
 
 #### RTC Subsystem
 
@@ -109,7 +109,7 @@ https://patchwork.ozlabs.org/project/rtc-linux/patch/20251127120456.1849177-2-la
 **PCF85263 Counter Driver**
 
 🔗 **Upstream Submission:**  
-https://patchew.org/linux/20251008100713.1198461-1-lakshay.piplani@nxp.com/20251008100713.1198461-2-lakshay.piplani@nxp.com/
+https://lkml.org/lkml/2025/9/16/13
 
 #### Industrial I/O (IIO) Subsystem
 
