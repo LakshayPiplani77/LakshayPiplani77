@@ -64,9 +64,6 @@ Highlights:
 - MFD Driver
 - Regulator Driver
 - Device Tree Bindings
-- SMBus Target Support
-- Cascaded Hub Support
-- Mixed I3C / I2C Target Port Support
 
 🔗 **Latest Patch Series:**  
 https://lore.kernel.org/linux-i3c/20260525064209.2263045-1-lakshay.piplani@nxp.com/T/#t
