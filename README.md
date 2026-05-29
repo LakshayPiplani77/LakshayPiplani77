@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakshay Piplani</h1>
 
 <h3 align="center">
-Embedded Linux Engineer | Linux Kernel Developer | Open Source Contributor
+Embedded Software Engineer | Linux Kernel Developer | Open Source Contributor
 </h3>
 
 <p align="center">
