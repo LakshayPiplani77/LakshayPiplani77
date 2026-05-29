@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakshay Piplani</h1>
 
 <h3 align="center">
-Embedded Software Engineer | Linux Kernel Developer | Open Source Contributor
+Embedded Linux Engineer | Linux Kernel Developer | Open Source Contributor
 </h3>
 
 <p align="center">
@@ -16,13 +16,17 @@ Embedded Software Engineer | Linux Kernel Developer | Open Source Contributor
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lakshaypiplani77&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
 I am a **Software Engineer at NXP Semiconductors** working on **Embedded Linux, Linux Kernel Device Drivers, BSP Enablement, Secure Boot, ARM platforms, and Linux upstreaming**.
 
-My work spans close-to-hardware software layers including **ARM Trusted Firmware, U-Boot, Linux Kernel, Yocto, board bring-up, and production-grade embedded validation**.
+My work spans close-to-hardware software layers including **ARM Trusted Firmware (ATF), U-Boot, Linux Kernel, Yocto, Board Bring-up, Secure Boot, and Production Validation**.
 
 Currently focused on **Linux I3C subsystem development** and upstream support for **NXP P3H2x4x I3C Hub devices**.
 
@@ -33,13 +37,15 @@ Currently focused on **Linux I3C subsystem development** and upstream support fo
 - Linux Kernel Development
 - Linux Device Drivers
 - Embedded Linux BSP
+- Linux Upstreaming
 - I3C / I2C / SPI / UART
 - Yocto Project
 - U-Boot
-- ARM Trusted Firmware
+- ARM Trusted Firmware (ATF)
 - Secure Boot
 - Board Bring-up
 - Python Automation
+- CMSIS Driver Development
 
 ---
 
@@ -78,7 +84,7 @@ https://github.com/torvalds/linux/commit/83b3354a4ad9a784a3335a2c303c693f521d1e4
 
 ---
 
-### 📨 Ongoing Upstream Contributions
+### 📨 Reviewed & Accepted Upstream Contributions
 
 #### RTC Subsystem
 
@@ -110,7 +116,61 @@ https://patchew.org/linux/20251008100713.1198461-1-lakshay.piplani@nxp.com/20251
 **P3T1755 IIO Driver**
 
 🔗 **Upstream Submission:**  
-https://patchwork.ozlabs.org/project/devicetree-bindings/patch/20250915071415.1956219-1-lakshay.piplani@nxp.com/#3580433
+https://patchew.org/linux/20251008100713.1198461-1-lakshay.piplani@nxp.com/20251008100713.1198461-2-lakshay.piplani@nxp.com/
+
+---
+
+## 🔬 Embedded Software & Bare-Metal Development
+
+In addition to Linux kernel development, I have developed CMSIS-based drivers, middleware, and demo applications for NXP hardware platforms published through **NXP AppCodeHub**.
+
+### 🕒 Real-Time Clock (RTC)
+
+#### PCF2131 RTC Driver & Demo Application
+
+🔗 Repository:  
+https://github.com/nxp-appcodehub/dm-pcf2131-real-time-clock-driver-with-demo-app
+
+---
+
+### 💡 LED Driver Development
+
+#### PCA9957HN LED Driver & Demo Application
+
+🔗 Repository:  
+https://github.com/nxp-appcodehub/dm-pca9957hn-led-driver-with-demo-app
+
+#### PCA9959HN LED Driver & Demo Application
+
+🔗 Repository:  
+https://github.com/nxp-appcodehub/dm-pca9959hn-led-driver-with-demo-app
+
+---
+
+### 📡 Analog Front-End (AFE)
+
+#### NAFE13388 Application Examples
+
+🔗 Contribution:  
+https://github.com/nxp-appcodehub/dm-nafe13388-application-examples/commit/368d57f24aef1d9109db03d139504665114f755c
+
+---
+
+### 🔌 GPIO Expansion
+
+#### PCAL6408A 8-Bit I2C GPIO Expander Driver & Demo Application
+
+🔗 Repository:  
+https://github.com/nxp-appcodehub/dm-pcal6408a-8-bit-i2c-gpio-expander
+
+---
+
+### ⚡ I3C Development
+
+#### P3S0210BQ Bidirectional I3C Switch Driver & Demo Application
+
+🔗 Repository:  
+https://github.com/nxp-appcodehub/dm-p3s0210bq-bidirectional-i3c-switch
 
 ---
 
@@ -125,6 +185,7 @@ https://patchwork.ozlabs.org/project/devicetree-bindings/patch/20250915071415.19
   <img src="https://img.shields.io/badge/Yocto-2C5282?style=for-the-badge">
   <img src="https://img.shields.io/badge/U--Boot-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white">
+  <img src="https://img.shields.io/badge/I3C-1F6FEB?style=for-the-badge">
 </p>
 
 ---
@@ -132,7 +193,7 @@ https://patchwork.ozlabs.org/project/devicetree-bindings/patch/20250915071415.19
 ## 💼 Experience
 
 ### Software Engineer — NXP Semiconductors  
-**Jul 2023 - Present | Noida, India**
+**Jul 2023 – Present | Noida, India**
 
 - Embedded Linux BSP enablement for ARM-based platforms.
 - Linux kernel driver development across HWMON, RTC, I3C, Counter, and IIO subsystems.
@@ -152,14 +213,24 @@ https://patchwork.ozlabs.org/project/devicetree-bindings/patch/20250915071415.19
 
 ## 🏆 Highlights
 
-- Linux kernel upstream contributor
-- Mainlined HWMON contribution
-- Accepted RTC subsystem contributions
-- Active I3C subsystem upstream development
-- 300+ LeetCode problems solved
-- GATE CS qualified with 95 percentile
-- Embedded Linux, BSP, and secure boot experience
-- Automotive and industrial embedded platform exposure
+- Linux Kernel Upstream Contributor
+- Mainlined Linux HWMON Contribution (P3T1750)
+- Reviewed & Accepted RTC Contributions
+- Active Linux I3C Subsystem Development
+- Published Embedded Software through NXP AppCodeHub
+- 300+ LeetCode Problems Solved
+- GATE CS Qualified (95 Percentile)
+- Embedded Linux, BSP, and Secure Boot Experience
+- Automotive and Industrial Embedded Platform Exposure
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshaypiplani77&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshaypiplani77&theme=tokyonight" />
+</p>
 
 ---
 
