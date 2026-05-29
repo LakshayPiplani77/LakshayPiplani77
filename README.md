@@ -78,7 +78,7 @@ https://github.com/torvalds/linux/commit/83b3354a4ad9a784a3335a2c303c693f521d1e4
 
 ---
 
-### 📨 Accepted Upstream Contributions
+### 📨 Ongoing Upstream Contributions
 
 #### RTC Subsystem
 
