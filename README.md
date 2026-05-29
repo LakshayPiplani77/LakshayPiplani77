@@ -183,8 +183,6 @@ https://github.com/nxp-appcodehub/dm-p3s0210bq-bidirectional-i3c-switch
   <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Linux%20Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Yocto-2C5282?style=for-the-badge">
-  <img src="https://img.shields.io/badge/U--Boot-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white">
 </p>
 
 ---
