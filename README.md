@@ -156,7 +156,7 @@ https://github.com/nxp-appcodehub/dm-nafe13388-application-examples/commit/368d5
 
 ---
 
-### 🔌 GPIO Expansion
+### 🔌 GPIO Expander
 
 #### PCAL6408A 8-Bit I2C GPIO Expander Driver & Demo Application
 
@@ -165,7 +165,7 @@ https://github.com/nxp-appcodehub/dm-pcal6408a-8-bit-i2c-gpio-expander
 
 ---
 
-### ⚡ I3C Development
+### ⚡ I3C Bus Switch
 
 #### P3S0210BQ Bidirectional I3C Switch Driver & Demo Application
 
@@ -185,7 +185,6 @@ https://github.com/nxp-appcodehub/dm-p3s0210bq-bidirectional-i3c-switch
   <img src="https://img.shields.io/badge/Yocto-2C5282?style=for-the-badge">
   <img src="https://img.shields.io/badge/U--Boot-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white">
-  <img src="https://img.shields.io/badge/I3C-1F6FEB?style=for-the-badge">
 </p>
 
 ---
